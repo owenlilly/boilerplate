@@ -6,7 +6,7 @@ app.set('view engine', 'pug');
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function(req, res) {
-  res.render('index');
+  res.render('home/index');
 });
 
 const port = 3000;
