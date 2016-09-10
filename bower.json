@@ -1,0 +1,21 @@
+{
+  "name": "express-rxmongo-boilerplate",
+  "description": "A started template for building web apps, uses rxmongo in place of mongoose",
+  "main": "server.js",
+  "authors": [
+    "Owen Lilly"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
